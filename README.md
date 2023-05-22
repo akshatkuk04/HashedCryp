@@ -1,2 +1,2 @@
 # HashedCryp
-A Differential Cryptoanalysis attack on a Toy Cipher
+A Differential Cryptanalysis attack on a Toy Cipher
